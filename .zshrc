@@ -68,7 +68,7 @@ ZSH_THEME="ys"
 # Custom plugins may be added to ~/.oh-my-zsh/custom/plugins/
 # Example format: plugins=(rails git textmate ruby lighthouse)
 # Add wisely, as too many plugins slow down shell startup.
-plugins=(git z.lua last-working-dir thefuck zsh-autosuggestions zsh-syntax-highlighting history-substring-search fzf ripgrep fd)
+plugins=(git z.lua wd last-working-dir thefuck zsh-autosuggestions zsh-syntax-highlighting history-substring-search fzf ripgrep fd)
 
 source $ZSH/oh-my-zsh.sh
 
