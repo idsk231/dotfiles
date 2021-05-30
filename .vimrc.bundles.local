@@ -1,0 +1,6 @@
+let g:spf13_bundle_groups=['general', 'writing', 'youcompleteme', 'programming', 'python',]
+Plugin 'tomasr/molokai'
+Bundle 'sickill/vim-monokai'
+Bundle 'joshdick/onedark.vim'
+Bundle 'dracula/dracula-theme'
+

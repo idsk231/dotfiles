@@ -1,0 +1,17 @@
+"let g:airline_theme = 'solarized'
+
+" set background=light
+" color wombat 
+" color ir_black
+" color solarized
+" colorscheme ir_black
+color atom
+
+set number
+set cindent
+set visualbell 
+set nolist
+set nospell
+set cursorline   
+hi CursorLine   cterm=NONE ctermbg=darkyellow ctermfg=white   
+hi CursorColumn cterm=NONE ctermbg=darkyellow ctermfg=white  
